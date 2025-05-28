@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm MichAle00!
 
 🎓 I'm a Computer System Engineering student, code wrangler, and all-around tech enthusiast!  
-💻 My main playgrounds are **C#**, **.NET**, **C**, **C++**, **SQL**, and **JavaScript**.  
+💻 My main playgrounds are **C#**, **.NET**, **C**, **C++**, **Python**, **SQL**, and **JavaScript**.  
 🐧 Fedora Linux is my daily driver—terminal living and proud of it!  
 🔐 I have a big passion for **cybersecurity**—catch me reading about the latest exploits or trying to break my own code.  
 🍥 Kotlin newbie here! Learning it so I can dive into awesome open source projects (shout out to **Mihon**, **Yokai**, and **Keiyoushi Extensions** repos!).  
