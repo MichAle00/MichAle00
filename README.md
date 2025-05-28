@@ -35,7 +35,7 @@
 
 ## 📚 Currently Learning
 
-- Kotlin (to contribute to Mihon, Yokai, and Keiyoushi Extensions!)
+- Kotlin
 - More about Linux internals
 - Advanced cybersecurity techniques
 
