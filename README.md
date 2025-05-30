@@ -7,6 +7,8 @@
 🍥 Kotlin newbie here! Learning it so I can dive into awesome open source projects (shout out to **Mihon**, **Yokai**, and **Keiyoushi Extensions** repos!).  
 🍿 When I’m not coding, you’ll probably find me watching anime or getting lost in manga panels.
 
+![MichAle00's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichAle00&show_icons=true&theme=radical)
+
 ---
 
 ## 🚀 Tech Stack & Tools
