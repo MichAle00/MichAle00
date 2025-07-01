@@ -4,7 +4,7 @@
 💻 My main playgrounds are **C#**, **.NET**, **C**, **C++**, **Python**, **SQL**, and **JavaScript**.  
 🐧 Fedora Linux is my daily driver—terminal living and proud of it!  
 🔐 I have a big passion for **cybersecurity**—catch me reading about the latest exploits or trying to break my own code.  
-🍥 Kotlin newbie here! Learning it so I can dive into awesome open source projects (shout out to **Mihon**, **Yokai**, and **Keiyoushi Extensions** repos!).  
+🍥 Kotlin newbie here! Learning it so I can dive into awesome open source projects.  
 🍿 When I’m not coding, you’ll probably find me watching anime or getting lost in manga panels.
 
 ![MichAle00's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichAle00&show_icons=true&theme=radical)
