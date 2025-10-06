@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm MichAle00!
 
 🎓 I'm a Computer Engineering student, code wrangler, and all-around tech enthusiast!  
-💻 My main playgrounds are **C#**, **.NET**, **C**, **C++**, **Python**, **SQL**, and **JavaScript**.  
+💻 My main playgrounds are **C#**, **.NET**, **C**, **C++**, **Python**, **SQL**, and **Rust**.  
 🐧 Fedora Linux is my daily driver—terminal living and proud of it!  
 🔐 I have a big passion for **cybersecurity**—catch me reading about the latest exploits or trying to break my own code.  
 🍿 When I’m not coding, you’ll probably find me watching anime or getting lost in manga panels.
@@ -35,7 +35,7 @@
 
 ## 📚 Currently Learning
 
-- Kotlin
+- Rust
 - More about Linux internals
 - Advanced cybersecurity techniques
 
